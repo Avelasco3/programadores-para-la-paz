@@ -1,0 +1,9 @@
+Dominar la terminal es una habilidad fundamental para cualquier desarrollador, ya que permite
+interactuar directamente con el sistema operativo de manera más rápida y precisa que
+mediante interfaces gráficas. Al saber navegar por los directorios y organizar archivos desde la
+consola, el profesional gana un control total sobre la estructura de sus proyectos. Esta
+competencia facilita la ejecución de comandos para compilar código, gestionar dependencias y
+automatizar tareas repetitivas, lo cual optimiza significativamente el flujo de trabajo diario.
+Además, la terminal es el entorno nativo para herramientas esenciales de control de versiones y
+despliegue, siendo indispensable en entornos de desarrollo modernos. Al organizar los archivos
+mediante comandos, se asegura una jerarquía limpia y lógica que evita errores comunes durante el proceso de programación.
