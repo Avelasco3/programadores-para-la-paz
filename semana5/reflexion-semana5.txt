@@ -1,0 +1,6 @@
+Las APIs actúan como puentes digitales que facilitan el intercambio eficiente de datos entre
+diversas plataformas y al implementar estas tecnologías, las comunidades pueden conectar sistemas
+dispares para centralizar reportes y alertas en un punto común, evitando la fragmentación de los datos.
+Esta automatización permite que la información fluya en tiempo real, asegurando que las actualizaciones lleguen de forma inmediata
+a los ciudadanos. Asimismo, las APIs fomentan la creación de herramientas externas que pueden consumir
+esta información para visualizarla de manera más comprensible y útil para el público general.

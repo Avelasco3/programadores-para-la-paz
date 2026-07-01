@@ -1,0 +1,5 @@
+/: Muestra el mensaje "Servidor activo".
+
+/saludo: Muestra el mensaje "Hola comunidad".
+
+/mensaje/Andres: Muestra el mensaje "Hola Andres"

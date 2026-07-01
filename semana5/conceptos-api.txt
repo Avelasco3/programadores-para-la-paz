@@ -1,0 +1,5 @@
+Qué hace la ruta POST?: Recibe información que el usuario envía (como un reporte o mensaje) y responde confirmando que
+fue recibido.
+
+Para qué sirve?: Sirve para que los ciudadanos puedan enviar reportes de problemas en su 
+comunidad y que el servidor los almacene o procese.
