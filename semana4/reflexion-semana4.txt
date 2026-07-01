@@ -1,0 +1,9 @@
+La capacidad de las comunidades para crear herramientas propias mediante tecnologías
+abiertas como Node.js es esencial para alcanzar la soberanía digital. Este enfoque permite el
+desarrollo de soluciones personalizadas que atienden necesidades locales específicas,
+superando las limitaciones de los productos comerciales genéricos. Al utilizar código abierto,
+se eliminan los costos de licencias y se derriban barreras económicas, facilitando la
+implementación de infraestructuras robustas. Asimismo, este proceso impulsa el
+empoderamiento y la educación técnica de los ciudadanos, quienes pasan de ser consumidores
+pasivos a creadores activos de tecnología. La apertura del código favorece además la
+ransparencia y la seguridad, permitiendo que la comunidad colabore en la detección y corrección de errores.
