@@ -1,0 +1,8 @@
+Es importante porque permite guardar estados específicos del proyecto, lo que facilita
+volver a versiones anteriores en caso de que surjan errores críticos o errores de código
+también facilita el trabajo en equipo al permitir que múltiples desarrolladores trabajen
+en distintas partes del código simultáneamente sin sobrescribir el trabajo de los demás
+nos proporciona un historial detallado de quién realizó qué cambios, cuándo los
+hizo y por qué, lo cual es esencial para el mantenimiento y la auditoría del software.
+Gracias a esto los desarrolladores pueden experimentar con nuevas funcionalidades o arreglos
+en un entorno aislado sin comprometer la estabilidad del código principal o "producción".

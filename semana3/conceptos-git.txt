@@ -1,0 +1,5 @@
+Repositorio: Es como tu "caja fuerte" donde se guarda todo el historial y los archivos del proyecto para que no se pierdan.
+
+Commit: Es como tomar un punto de guardado de tu trabajo en un momento específico o señalar un cambio realizado.
+
+Push: Es la acción de subir lo que hiciste en tu computadora hacia la nube
