@@ -1,0 +1,10 @@
+La responsabilidad en internet es fundamental para fomentar un entorno digital seguro y
+respetuoso, donde cada interacción se base en la ética y el pensamiento crítico. Al ser
+conscientes del impacto de nuestras acciones en línea, contribuimos a reducir la propagación
+de información falsa y protegemos nuestra propia reputación y la de los demás. Esta actitud
+responsable debe extenderse al ámbito profesional y técnico, donde el uso de herramientas
+como Git resulta esencial para cualquier desarrollador o colaborador. Git permite gestionar
+proyectos complejos de manera ordenada, facilitando el control de versiones y garantizando
+que el trabajo sea transparente, trazable y colaborativo. Al dominar estas herramientas, no solo
+mejoramos nuestra productividad, sino que también aprendemos a trabajar de forma
+disciplinada, documentando cambios y resolviendo problemas técnicos mediante pasos estructurados.
