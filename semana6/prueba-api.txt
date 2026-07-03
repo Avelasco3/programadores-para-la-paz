@@ -1,0 +1,2 @@
+cuando se envía un JSON con nombre y mensaje a /registro, el servidor procesa esa
+ información y devuelve una respuesta JSON confirmando que los datos fueron recibidos.
