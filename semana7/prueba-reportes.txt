@@ -1,0 +1,10 @@
+Realicé una petición HTTP de tipo POST a la ruta http://localhost:3000/reportes. En el cuerpo de la petición
+envié un objeto JSON con los campos "tipo" y "descripcion". El servidor recibió estos datos, les asignó un ID automáticamente
+utilizando el tamaño del array y los almacenó en la memoria RAM del servidor.
+
+Proceso de consulta (GET): Posteriormente, realicé una petición de tipo GET a la misma URL. El servidor
+respondió devolviendo un JSON con la lista (array) completa de reportes almacenados, lo que confirma que el registro fue exitoso.
+
+Observación técnica: Inicialmente, obtuve un error debido a una URL incorrecta. Al corregirla por localhost:3000, 
+logré establecer la conexión local con mi servidor Express, confirmando que la API está operativa y procesando los datos 
+correctamente en memoria.
