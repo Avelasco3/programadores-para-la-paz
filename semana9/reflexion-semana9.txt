@@ -1,0 +1,8 @@
+La estabilidad y seguridad de un servidor son fundamentales para garantizar que las herramientas
+tecnológicas comunitarias sean confiables. Si una plataforma falla constantemente o no es segura, los
+ciudadanos pierden la confianza en el proceso participativo y dejan de utilizarla. Un servidor
+estable asegura que la información esté disponible siempre que se necesite, permitiendo una gestión 
+eficiente de los reportes o incidencias comunitarias. Además, la seguridad protege los datos sensibles de los 
+participantes contra accesos no autorizados. En conjunto, estos elementos transforman la tecnología en una 
+herramienta robusta que realmente facilita la solución de problemas y fortalece el tejido social, evitando que las 
+brechas técnicas se conviertan en barreras para la participación ciudadana.
