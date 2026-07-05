@@ -1,0 +1,9 @@
+La seguridad digital es el pilar fundamental para garantizar la confianza de las comunidades en cualquier 
+proceso participativo. Cuando las plataformas tecnológicas no son seguras, los ciudadanos se exponen a riesgos 
+que van desde la filtración de sus datos personales hasta la manipulación de su voluntad democrática.
+Proteger estas plataformas es vital para asegurar que la voz de la comunidad sea escuchada de forma auténtica y sin 
+interferencias malintencionadas. Además, una plataforma segura fomenta una mayor participación, ya que los usuarios 
+se sienten tranquilos al saber que su información y sus aportes están siendo resguardados contra ataques o accesos no autorizados.
+En última instancia, la seguridad digital no es solo un tema técnico, sino un compromiso ético con la integridad de los espacios
+de diálogo comunitario, garantizando que la tecnología realmente sirva como un puente para la solución de problemas y no como
+una puerta a nuevas vulnerabilidades sociales.

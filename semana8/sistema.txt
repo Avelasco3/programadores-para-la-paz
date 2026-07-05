@@ -1,0 +1,8 @@
+uname -a: Este comando imprime información detallada del sistema, incluyendo el nombre del
+kernel, la versión de la distribución, la arquitectura del procesador y la fecha de compilación.
+
+whoami: Este comando devuelve el nombre del usuario actual que ha iniciado sesión en la terminal.
+
+Conocer esta información es vital para un administrador de servidores porque permite identificar rápidamente el entorno
+en el que se trabaja. Ayuda a verificar la compatibilidad de software, gestionar permisos de archivos adecuadamente según el
+usuario activo y diagnosticar problemas de seguridad o rendimiento específicos de la versión del sistema operativo o del kernel.

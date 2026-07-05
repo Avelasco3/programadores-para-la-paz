@@ -1,0 +1,14 @@
+No exponer datos personales: Evitar la publicación de información sensible de los usuarios
+(nombres completos, direcciones exactas o teléfonos) para prevenir robos de identidad.
+
+Proteger credenciales: Fomentar el uso de contraseñas robustas y autenticación de doble factor
+para evitar accesos no autorizados.
+
+Usar conexiones seguras: Asegurarse de que el tráfico entre el usuario y la plataforma esté
+cifrado para evitar la interceptación de datos.
+
+Registrar accesos: Mantener un historial de quién entra y qué hace en la plataforma, lo que permite
+detectar comportamientos sospechosos a tiempo.
+
+Limitar acceso a información sensible: Aplicar el principio de "menor privilegio", donde los usuarios
+o administradores solo tienen acceso a los datos estrictamente necesarios para su función.
