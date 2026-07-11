@@ -1,0 +1,11 @@
+1. Evento que activa la automatización:
+La inserción o registro exitoso de una nueva causa ciudadana en la tabla correspondiente de la base de datos 
+(Evento: Nueva causa registrada).
+
+2. Mensaje estructurado que se envía:
+"📢 Alerta de Veeduría: Se ha abierto una nueva iniciativa comunitaria en la plataforma 'Petición en 3 Clics'. 
+Los miembros asignados pueden revisar el tablero de administración para validar los requerimientos de la propuesta."
+
+3. Información restringida por seguridad (No enviada):
+Bajo ninguna circunstancia se adjuntarán números de cédula, números telefónicos, direcciones domiciliarias, contraseñas, hashes, 
+ni comentarios subjetivos de carácter sensible expuestos por los usuarios en el formulario original.

@@ -1,0 +1,12 @@
+A lo largo del curso, comprendí que la tecnología, cuando se diseña bajo un enfoque ético y centrado en la comunidad, 
+se convierte en un catalizador indispensable para fortalecer la participación ciudadana y la veeduría social. Herramientas 
+como las metodologías ágiles y los backlogs permiten ordenar las necesidades reales de una población civil, transformando quejas 
+informales en metas técnicas y alcanzables de forma transparente. Asimismo, la arquitectura de software —con bases de 
+datos relacionales, interfaces usables y flujos de automatización mediante n8n o alertas de Telegram— optimiza la operatividad 
+comunitaria, eliminando barreras de acceso y facilitando que cualquier persona audite procesos públicos en tiempo récord. Lo más 
+relevante del aprendizaje ha sido identificar el balance crítico entre la automatización de procesos institucionales, como 
+la generación de PDFs listos para radicar, y el deber ético de blindar los datos personales de los ciudadanos. La ciberseguridad 
+y la minimización de datos no son opcionales; constituyen el núcleo de la confianza comunitaria necesaria para incentivar 
+una participación democrática masiva y segura. En conclusión, el curso me demostró que la ingeniería de sistemas no solo resuelve 
+problemas algorítmicos, sino que provee la infraestructura técnica necesaria para empoderar a la sociedad y coordinar colectivos 
+hacia un cambio transparente y estructurado.

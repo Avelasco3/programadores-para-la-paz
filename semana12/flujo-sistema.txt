@@ -1,0 +1,10 @@
+Flujo de Trabajo del Sistema: Petición en 3 Clics
+
+1. Registro de Causa: Un ciudadano autenticado crea una nueva causa comunitaria ingresando título y descripción en la plataforma.
+2. Persistencia en Base de Datos: La causa y sus metadatos se almacenan de forma segura e indexada en la base de datos relacional.
+3. Recolección de Respaldo: Otros miembros de la comunidad ingresan a la plataforma, leen las iniciativas y apoyan 
+la causa digitalmente.
+4. Conteo Dinámico: El backend del sistema procesa los registros de apoyo en tiempo real y actualiza el contador público de la 
+causa.
+5. Generación de Petición Formal: Al alcanzar un umbral de apoyos o por solicitud del creador, el sistema compila los datos y 
+genera de forma automática un documento PDF formal listo para radicar ante entes de control.

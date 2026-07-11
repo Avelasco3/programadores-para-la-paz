@@ -1,0 +1,19 @@
+Entidad: Causa
+Atributos:
+- id (Entero, Clave Primaria)
+- titulo (Texto)
+- descripcion (Texto Largo)
+- fecha (Fecha de registro)
+Propósito:
+Sirve para almacenar de forma persistente y estructurada la información principal de las iniciativas ciudadanas o 
+problemáticas locales expuestas en la plataforma.
+
+Entidad: Apoyo
+Atributos:
+- id (Entero, Clave Primaria)
+- causa_id (Entero, Clave Foránea vinculada a la Entidad Causa)
+- nombre (Texto, iniciales o alias del usuario anonimizado)
+- fecha (Fecha/Hora del respaldo)
+Propósito:
+Sirve para registrar de manera transparente las firmas digitales o muestras de conformidad de los usuarios respecto a una 
+causa puntual, permitiendo la trazabilidad del quórum comunitario sin exponer su privacidad.
