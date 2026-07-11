@@ -1,0 +1,8 @@
+El login es el mecanismo que permite validar la identidad de un usuario mediante 
+credenciales (como un correo y contraseña cifrada) antes de concederle acceso a funciones 
+de la plataforma. Algunas rutas del sistema deben estar estrictamente protegidas porque 
+manejan configuraciones del servidor, gestión de usuarios o acciones administrativas que no 
+deben ser alteradas por personas no autorizadas. Finalmente, para salvaguardar la privacidad 
+de la comunidad, jamás se debe exponer públicamente información como contraseñas, documentos 
+de identidad (cédulas), números telefónicos, direcciones residenciales, tokens de acceso o c
+laves de API en las respuestas de la aplicación.

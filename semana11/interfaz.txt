@@ -1,0 +1,14 @@
+La interfaz de la plataforma ciudadana contará con un diseño limpio, responsivo y estructurado 
+de la siguiente manera:
+
+1. Formulario para crear una causa: Una vista de acceso controlado que contendrá campos de texto simples para 
+capturar el título de la iniciativa, una descripción detallada del propósito y un selector de fecha de inicio.
+2. Vista de causas disponibles: Una sección pública principal que organizará de forma visual tarjetas (cards) informativas 
+con el resumen de cada causa comunitaria registrada en la base de datos.
+3. Botón para apoyar una causa: Cada tarjeta de causa incluirá un botón interactivo y visible ("Apoyar Causa") para que los 
+ciudadanos autenticados puedan sumar su respaldo digital de manera ágil.
+4. Contador de apoyos: Un indicador numérico dinámico ubicado junto al botón que reflejará la suma total de apoyos 
+vigentes que la iniciativa ha recolectado.
+
+Nota de diseño: La interfaz priorizará la usabilidad y la transparencia en los datos comunitarios, asegurando que no se 
+exponga ningún tipo de información privada del usuario en las tarjetas o secciones comunes.
