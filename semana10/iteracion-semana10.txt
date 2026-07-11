@@ -1,0 +1,19 @@
+Planificación de la Iteración
+
+¿Qué 2 tareas del backlog harías primero?
+1. Historia de Usuario 1 (Registrar la incidencia por formulario).
+2. Historia de Usuario 2 (Enviar alerta automática a Telegram).
+
+¿Por qué son las más importantes?
+Porque constituyen el "Mínimo Viable" de la solución. Sin el registro del ciudadano no 
+existe dato que procesar, y sin la alerta inmediata el coordinador no se entera del problema. 
+La consulta del histórico (H.U. 3) puede esperar a una segunda fase.
+
+Definición de Terminado (Definition of Done - DoD):
+Para que una tarea se considere "terminada" debe cumplir con:
+1. Funciona: El código se ejecuta correctamente y cumple el objetivo de la historia de 
+usuario sin errores.
+2. Fue probada: Se realizaron pruebas manuales simulando el flujo del usuario y el sistema 
+respondió bien.
+3. Quedó registrada en Git: El código o configuración correspondiente fue subido al 
+repositorio institucional.

@@ -1,0 +1,16 @@
+Backlog del Proyecto: Sistema de Veeduría Ciudadana
+
+[Prioridad Alta]
+Historia de Usuario 1:
+Como ciudadano, quiero registrar una incidencia (falla de servicio, bache) mediante un
+formulario web básico para dejar evidencia del caso con una descripción clara.
+
+[Prioridad Media]
+Historia de Usuario 2:
+Como coordinador comunitario, quiero recibir una alerta automática en Telegram cuando
+se cree un nuevo reporte para revisarlo y asignarle un estado rápidamente.
+
+[Prioridad Baja]
+Historia de Usuario 3:
+Como miembro del equipo de veeduría, quiero consultar el listado histórico
+de reportes en un tablero para hacerles seguimiento y actualizar si ya fueron solucionados.

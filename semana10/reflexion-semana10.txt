@@ -1,0 +1,14 @@
+Las metodologías ágiles, combinadas con herramientas de automatización como n8n y 
+canales de comunicación masiva como Telegram, transforman significativamente la organización 
+comunitaria y los procesos de participación ciudadana. En primer lugar, el uso de un backlog 
+permite estructurar y priorizar de manera transparente las necesidades reales de una 
+población, evitando que las solicitudes se pierdan en la burocracia tradicional. Asimismo, 
+definir iteraciones cortas asegura que la comunidad observe resultados tangibles de forma 
+continua, aumentando la confianza en los procesos de veeduría. Por otro lado, la 
+automatización elimina la carga operativa de estar revisando bases de datos constantemente, 
+delegando en plataformas como n8n la tarea de conectar los formularios de reporte con alertas 
+instantáneas. Al integrar estas alertas en Telegram, una aplicación accesible y de uso 
+cotidiano, se democratiza el acceso a la información y se agiliza la capacidad de respuesta 
+del equipo coordinador. En conclusión, esta sinergia tecnológica no solo optimiza la 
+gestión técnica, sino que empodera al ciudadano al ofrecerle un canal eficiente, 
+transparente y seguro para auditar y mejorar su entorno de forma participativa.
